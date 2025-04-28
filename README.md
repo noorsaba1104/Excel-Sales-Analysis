@@ -1,5 +1,5 @@
 ## Sales Report :
-
+> From Raw Data to Strategic Insights — Powered by Excel, Power Query, Power Pivot, and DAX
 
 - **Project objective:** 
 
